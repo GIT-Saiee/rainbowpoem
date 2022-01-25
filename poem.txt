@@ -1,4 +1,5 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and a pony
+
 brown
 violet 
 Indigo 
@@ -8,6 +9,7 @@ Yellow
 Orange 
 Red 
 Unicorn
+pony 
 These are the colors in my rainbow 
 There are Seven Colors in the rainbow and the Unicorn
 I love them.
